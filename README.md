@@ -2,7 +2,7 @@
 
 This notebook looks into various Python-based libraries of machine learning and data science in an attempt to build a machine learning model capable of predicting medical insurance costs.
 
-## 2.Features
+## Features
 
 * age: age of primary beneficiary
 * sex: insurance contractor gender, female, male
